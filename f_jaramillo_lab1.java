@@ -1,3 +1,17 @@
+/*Assignment 1:
+Create a simple calculator that will do an addition,
+a subtraction, a multiplication, and a division between
+2 user chosen doubles.
+
+Requirements:
+- Create 2 variables that are of the type double.
+- Ask the user for their input for both variables.
+- Create 4 variables that will store the results of each
+  of the math operations.
+- Print out the results of each math operation to the
+  terminal.
+*/
+
 import java.util.Scanner;
 
 public class calculator {
