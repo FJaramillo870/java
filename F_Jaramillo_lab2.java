@@ -1,3 +1,23 @@
+/*
+As activity directory at Lake Taos, it is your job 
+to suggest appropriate activities to guests based on 
+the weather:
+temp >= 80: swimming
+60 <= temp < 80: tennis
+40 <= temp < 60: golf
+temp < 40: skiing
+Write a program that prompts the user for a 
+temperature, then prints out the activity appropriate 
+for that temperature. You can use any combination of 
+if, switch statements, and logic gates. Be sure that 
+your conditions are no more complex than necessary.
+
+Extra credit:
+Modify your program so that if the temperature is 
+greater than 95 or less than 20, it prints "Visit our 
+shops!
+*/
+
 import java.util.Scanner;
 
 public class F_Jaramillo_lab2 {
