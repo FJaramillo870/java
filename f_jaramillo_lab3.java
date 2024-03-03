@@ -1,7 +1,7 @@
 //Felix Jaramillo
 //Java programming
 //Lab3
-/*
+/*Assignment 3:
 Write a Java program that allows users to perform various operations on a given string. The program should prompt the user to enter a word and then display a menu of options for string manipulation. After performing the chosen operation, the program should terminate.
 
 Requirements:
