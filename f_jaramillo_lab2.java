@@ -1,4 +1,4 @@
-/*
+/*Assignment 2:
 As activity directory at Lake Taos, it is your job 
 to suggest appropriate activities to guests based on 
 the weather:
